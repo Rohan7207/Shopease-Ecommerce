@@ -31,5 +31,16 @@ A modern and fully responsive e-commerce website built using HTML and CSS.
 
 ---
 
+## 💻 Desktop View
+![Desktop](Desktop_view.jpeg)
+
+## 📲 Tablet View
+![Tablet](Tablet_view.jpeg)
+
+## 📱 Mobile View
+![Mobile](Mobile_view.jpeg)
+
+---
+
 ## 👨‍💻 Author
 Developed by Rohan Figredo
